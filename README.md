@@ -8,6 +8,8 @@ Check [step-by-step instructions](http://numpy.d2l.ai/chapter_appendix/aws.html)
 What is more, if you would like to install locally (Mac and Linux available), check [step-by-step instructions](http://numpy.d2l.ai/chapter_install/install.html) here.
 
 
+[**Note**: The above links information can be [find](https://github.com/goldmermaid/mlrs/blob/master/installations.pdf) here.]
+
 
 ## All jupyter notebooks and slides
 
