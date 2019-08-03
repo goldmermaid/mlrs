@@ -3,15 +3,19 @@
 
 Notebooks for MLRS 2019. This repo contains the notebooks with only simplified code blocks. The lecture slides will be uploaded later.
 
+
+## Installations
+
+[**Note**: The below links information can be [find](https://github.com/goldmermaid/mlrs/blob/master/installations.pdf) here.]
+
 Check [step-by-step instructions](http://numpy.d2l.ai/chapter_appendix/aws.html) to setup the running environments on AWS EC2. Please make sure to submit a limit increase **by the noon of the first day** of MLRS2019.
 
 What is more, if you would like to install locally (Mac and Linux available), check [step-by-step instructions](http://numpy.d2l.ai/chapter_install/install.html) here.
 
 
-[**Note**: The above links information can be [find](https://github.com/goldmermaid/mlrs/blob/master/installations.pdf) here.]
 
 
-## All jupyter notebooks and slides
+## All the jupyter notebooks and slides
 
 | Title                               |  Jupyter  Notebooks    |  Slides    |
 | ------------------------------ | ---- | ---- |
