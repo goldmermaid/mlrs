@@ -6,7 +6,7 @@ Notebooks for MLRS 2019. This repo contains the notebooks with only simplified c
 
 ## Installations
 
-[**Note**: The below links information can be [find](https://github.com/goldmermaid/mlrs/blob/master/installations.pdf) here.]
+[**Note**: The installation slides can be [find](https://github.com/goldmermaid/mlrs/blob/master/installations.pdf) here.]
 
 Check [step-by-step instructions](http://numpy.d2l.ai/chapter_appendix/aws.html) to setup the running environments on AWS EC2. Please make sure to submit a limit increase **by the noon of the first day** of MLRS2019.
 
