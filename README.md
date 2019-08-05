@@ -21,7 +21,7 @@ What is more, if you would like to install **locally** (Mac and Linux available)
 | ------------------------------ | ---- | ---- |
 | Machine Learning Basics | N/A | [ML Basics](https://github.com/goldmermaid/mlrs/blob/master/ML_basics.pdf) |
 | Deep Learning Basics | [jupyter](https://github.com/goldmermaid/mlrs/tree/master/DL_basics) | [DL Basics](https://github.com/goldmermaid/mlrs/blob/master/DL_basics.pdf) |
-| Advanced Optimization | N/A | [ML Basics](https://github.com/goldmermaid/mlrs/blob/master/Advanced_Optimization.pdf) |
+| Advanced Optimization | N/A | [Advanced Optimization](https://github.com/goldmermaid/mlrs/blob/master/Advanced_Optimization.pdf) |
 | Convolution Neural Network | [jupyter](https://github.com/goldmermaid/mlrs/tree/master/cnn) | [CNN (morning session)](https://github.com/goldmermaid/mlrs/blob/master/CNN_morning.pdf) [CNN (afternoon session)](https://github.com/goldmermaid/mlrs/blob/master/CNN_afternoon.pdf) |
 | Recurrent Neural Network | [jupyter](https://github.com/goldmermaid/mlrs/tree/master/rnn) | Coming Soon... |
 
