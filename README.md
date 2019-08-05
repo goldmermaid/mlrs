@@ -39,6 +39,7 @@ What is more, if you would like to install **locally** (Mac and Linux available)
 | GluonCV | [GitHub](https://github.com/dmlc/gluon-cv) | A python toolkit which provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.|
 | GluonNLP | [GitHub](https://github.com/dmlc/gluon-nlp) | A python toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your Natural Language Processing (NLP) research. |
 |GluonTS | [GitHub](https://github.com/dmlc/gluon-ts) | A python toolkit for probabilistic time series modeling, which provides utilities for loading and iterating over time series datasets, state of the art models ready to be trained, and building blocks to define your own models and quickly experiment with different solutions.
+|MXNet Online Discussion | [Website](https://discuss.mxnet.io/) | An online protal to discuss deep learning, machine learning, how to do things efficiently in MxNet/Gluon, ask for help, or suggest new things.
 
 
 
